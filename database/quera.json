@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "First",
+      "family": "User",
+      "username": "quera1",
+      "password": "123456789"
+    },
+    {
+      "name": "Second",
+      "family": "User",
+      "username": "quera2",
+      "password": "123456789"
+    },
+    {
+      "name": "Third",
+      "family": "User",
+      "username": "quera3",
+      "password": "123456789"
+    },
+    {
+      "name": "Forth",
+      "family": "User",
+      "username": "quera4",
+      "password": "123456789"
+    },
+    {
+      "name": "Fifth",
+      "family": "User",
+      "username": "quera5",
+      "password": "123456789"
+    },
+    {
+      "name": "Sixth",
+      "family": "User",
+      "username": "quera6",
+      "password": "123456789"
+    }
+  ]
+}
